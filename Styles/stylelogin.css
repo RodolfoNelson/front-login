@@ -3,7 +3,7 @@
 
 :root {
 --input-error: red;    
---button-disable: #acacac; /*cor do botões login de validação*/
+--button-disable: #acacac;
 --button-success: rgb(18, 151,197);
 }
 

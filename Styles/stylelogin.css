@@ -159,6 +159,10 @@ a {
     text-decoration: underline;
 }
 
+iframe{
+    margin: 30px;
+    border-radius: 8%;
+}
 
 @media only screen and (max-width: 950px){
     .card-login{
